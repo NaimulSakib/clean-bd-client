@@ -1,0 +1,14 @@
+.sidebar {
+  height: 41rem;
+  background-image: linear-gradient(10deg, #84cce9, #ffffff);
+}
+.sidebar-logo {
+  width: 10rem;
+  margin: 0 auto 0 auto;
+}
+.sidebar-item {
+  padding: 5px;
+}
+.sidebar-item:hover {
+  background-color: white;
+}
